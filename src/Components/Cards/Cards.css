@@ -1,0 +1,17 @@
+.size{
+    width: 20rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.decoration{
+    text-decoration: none;
+    color: black;
+}
+
+@media only screen and (max-width: 768px) {
+    .size{
+        width: 100%;
+        
+    }
+}
