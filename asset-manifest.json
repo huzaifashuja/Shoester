@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/huzaifashuja/Shoester.git/static/css/main.26dca564.chunk.css",
+    "main.js": "/huzaifashuja/Shoester.git/static/js/main.72091ed2.chunk.js",
+    "main.js.map": "/huzaifashuja/Shoester.git/static/js/main.72091ed2.chunk.js.map",
+    "runtime-main.js": "/huzaifashuja/Shoester.git/static/js/runtime-main.7b7653bd.js",
+    "runtime-main.js.map": "/huzaifashuja/Shoester.git/static/js/runtime-main.7b7653bd.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/huzaifashuja/Shoester.git/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e904c42a.chunk.js": "/huzaifashuja/Shoester.git/static/js/2.e904c42a.chunk.js",
+    "static/js/2.e904c42a.chunk.js.map": "/huzaifashuja/Shoester.git/static/js/2.e904c42a.chunk.js.map",
+    "static/js/3.7529518d.chunk.js": "/huzaifashuja/Shoester.git/static/js/3.7529518d.chunk.js",
+    "static/js/3.7529518d.chunk.js.map": "/huzaifashuja/Shoester.git/static/js/3.7529518d.chunk.js.map",
+    "index.html": "/huzaifashuja/Shoester.git/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/huzaifashuja/Shoester.git/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.26dca564.chunk.css.map": "/huzaifashuja/Shoester.git/static/css/main.26dca564.chunk.css.map",
+    "static/js/2.e904c42a.chunk.js.LICENSE.txt": "/huzaifashuja/Shoester.git/static/js/2.e904c42a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b7653bd.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e904c42a.chunk.js",
+    "static/css/main.26dca564.chunk.css",
+    "static/js/main.72091ed2.chunk.js"
+  ]
+}
